@@ -51,10 +51,11 @@ $=-f_{12}(x_2-1)​$
 $g=h_{21}*h_{22}$   
 
 (3)data are mirror symmetry to the $2^n$ axis.
-![db4](C:\Users\admin\Documents\GitHub\CUHK_SZ_DL\Assignment1\db4.jpg)   
+![db4](db4.jpg)
+   
 (4)
 
-![nwn](C:\Users\admin\Documents\GitHub\CUHK_SZ_DL\Assignment1\nwn2.png)
+![nwn](nwn2.png)
 
 when $n\geq 1$ :
 
@@ -64,7 +65,7 @@ $h_{n2}=f_{n2}(x_2)=-f_{n-1}(x_2-2^{n-1})$
 
 (5)
 
-![nwn3](C:\Users\admin\Documents\GitHub\CUHK_SZ_DL\Assignment1\nwn3.png)
+![nwn3](nwn3.png)
 
 $h_{11}=(-1)^{x_1|0.5}$
 
